@@ -1,0 +1,38 @@
+/* CSS Document */
+
+body {
+	background-color: white;
+}
+
+.jumbotron {
+	background-color: darkorange;
+	padding-top: 5%
+}
+
+.card-header {
+	background-color: darkorange;
+	color: white;
+}
+
+.footer-info {
+    background-color: darkorange;
+    color: #512F23;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+.navbar {
+	background-color: darkorange;
+}
+
+.nav-link {
+    color: #512F23;
+}
+
+.logo {
+	padding: 0;
+}
+
+.footer-content {
+	margin-top: 5%;
+}
+
